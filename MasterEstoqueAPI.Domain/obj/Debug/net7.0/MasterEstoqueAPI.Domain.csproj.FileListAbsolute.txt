@@ -1,0 +1,12 @@
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\bin\Debug\net7.0\MasterEstoqueAPI.Domain.deps.json
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\bin\Debug\net7.0\MasterEstoqueAPI.Domain.dll
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\bin\Debug\net7.0\MasterEstoqueAPI.Domain.pdb
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\MasterEstoqueAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\MasterEstoqueAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\MasterEstoqueAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\MasterEstoqueAPI.Domain.AssemblyInfo.cs
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\MasterEstoqueAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\MasterEstoqueAPI.Domain.dll
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\refint\MasterEstoqueAPI.Domain.dll
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\MasterEstoqueAPI.Domain.pdb
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Domain\obj\Debug\net7.0\ref\MasterEstoqueAPI.Domain.dll

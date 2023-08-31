@@ -1,0 +1,17 @@
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\bin\Debug\net7.0\MasterEstoqueAPI.Business.deps.json
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\bin\Debug\net7.0\MasterEstoqueAPI.Business.dll
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\bin\Debug\net7.0\MasterEstoqueAPI.Business.pdb
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\bin\Debug\net7.0\MasterEstoqueAPI.Data.dll
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\bin\Debug\net7.0\MasterEstoqueAPI.Domain.dll
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\bin\Debug\net7.0\MasterEstoqueAPI.Data.pdb
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\bin\Debug\net7.0\MasterEstoqueAPI.Domain.pdb
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\MasterEstoqueAPI.Business.csproj.AssemblyReference.cache
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\MasterEstoqueAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\MasterEstoqueAPI.Business.AssemblyInfoInputs.cache
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\MasterEstoqueAPI.Business.AssemblyInfo.cs
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\MasterEstoqueAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\MasterEstoqueAPI.Business.csproj.CopyComplete
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\MasterEstoqueAPI.Business.dll
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\refint\MasterEstoqueAPI.Business.dll
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\MasterEstoqueAPI.Business.pdb
+C:\Users\leonardoleal\source\repos\MasterEstoqueAPI\MasterEstoqueAPI.Business\obj\Debug\net7.0\ref\MasterEstoqueAPI.Business.dll
